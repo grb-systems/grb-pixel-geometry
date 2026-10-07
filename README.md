@@ -4,11 +4,16 @@ A provisional G³GT framework for observational geometry: resolution, viewpoint,
 
 Pixel Geometry
 Observational Configuration, Clearance, and Perturbation
+
 Status: Development Repository / Provisional / Pre-validation
+
 Architecture: G³GT
+
 Organization: Geometric Resource Bridging (GRB)
+
 Scope: Public conceptual architecture, working definitions, falsifiers, developmental lineage, and experimental surface
 Implementation: Implementation-neutral
+
 Overview
 Pixel Geometry is a G³GT framework for examining how observation is configured.
 It asks:
